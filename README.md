@@ -42,7 +42,7 @@
 <!------------ Streak Display -------------->
 
 ## <img src="https://c.tenor.com/t8BoinVLwzAAAAAi/raf-rafs.gif" width="30px">Contribution Stats :
-
+<br>
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Crazimonk&theme=dark" alt="CraziMonk" /></p>
 </div>
