@@ -1,11 +1,10 @@
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is CraziMonk😃 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## <img src="https://c.tenor.com/daZ82E5sg8YAAAAi/crystal-de-meda-gem.gif" width="25px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is <strong>Codifymonk</strong>  Aka <strong>CraziMonk</strong>  Aka <strong> Naveen Guamste</strong> <img src="https://c.tenor.com/daZ82E5sg8YAAAAi/crystal-de-meda-gem.gif" width="25px">
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-- 👀 I'm interested in React.js, Vue.js, Little in backend Programming <br/>
-- 🌀 Trying to learn new technologies and try to keep myself busy  <br/>
-- 👨🏻‍💻 Currently exploring Javascript/React </br>
-- 📫 You can contact me through these socials IDs   <br/>
+- <img src="https://c.tenor.com/4ZKu_zQM8RAAAAAi/improviz-blender.gif" width="25px"> I'm interested in Frontend Devleopment, Little in backend Programming <br/>
+- <img src="https://c.tenor.com/iIdwhuezQv8AAAAi/ruskidd-butterfly.gif" width="30px"> Trying to learn new technologies <br/>
+- <img src="https://c.tenor.com/daZ82E5sg8YAAAAi/crystal-de-meda-gem.gif" width="25px"> Currently exploring Javascript & React </br>
 
 <!-----Social Accounts------>
 
@@ -34,7 +33,7 @@
 
 <!-----Contribution figures------>
 
-## <img src="https://c.tenor.com/-kRKFuHKEgEAAAAi/keto-keto-on-the-go.gif" width="30px">General Stats :
+## <img src="https://c.tenor.com/9ER-sDwv7jIAAAAi/arrow-yellow-arrow.gif" width="30px">General Stats :
 <br>
 <br>
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Crazimonk&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
@@ -76,7 +75,7 @@
 
 <!--------------- CraziMonk's Contribution Graph ---------------->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph :
+## <img src="https://c.tenor.com/7tB5uUwF7WUAAAAi/pfeil-arrow.gif" width="30px">Contribution Graph :
  <br>
  <br>
  <img src="https://activity-graph.herokuapp.com/graph?username=Crazimonk&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
