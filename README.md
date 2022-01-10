@@ -35,7 +35,6 @@
 
 ## <img src="https://c.tenor.com/9ER-sDwv7jIAAAAi/arrow-yellow-arrow.gif" width="30px">General Stats :
 <br>
-<br>
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Crazimonk&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
@@ -77,7 +76,7 @@
 
 ## <img src="https://c.tenor.com/7tB5uUwF7WUAAAAi/pfeil-arrow.gif" width="30px">Contribution Graph :
  <br>
- <br>
+
  <img src="https://activity-graph.herokuapp.com/graph?username=Crazimonk&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
  
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
@@ -88,7 +87,7 @@
 
 ## <img src="https://c.tenor.com/Ry7RrgVhNHoAAAAi/improviz-blender.gif" width="30px">Programming Languages used in the Project:
 <br>
-<br>
+
 
 <a href="https://www.python.org/">
 <img border="0" alt="Python" src="https://img.icons8.com/color//000000/python--v2.png"/>
