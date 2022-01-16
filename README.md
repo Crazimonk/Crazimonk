@@ -2,7 +2,7 @@
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-- <img src="https://c.tenor.com/4ZKu_zQM8RAAAAAi/improviz-blender.gif" width="25px"> I'm interested in Frontend Devleopment, Little in backend Programming <br/>
+- <img src="https://c.tenor.com/4ZKu_zQM8RAAAAAi/improviz-blender.gif" width="25px"> I'm interested in Frontend Development, Little in backend Programming <br/>
 - <img src="https://c.tenor.com/iIdwhuezQv8AAAAi/ruskidd-butterfly.gif" width="30px"> Trying to learn new technologies <br/>
 - <img src="https://c.tenor.com/daZ82E5sg8YAAAAi/crystal-de-meda-gem.gif" width="25px"> Currently exploring Javascript & React </br>
 
