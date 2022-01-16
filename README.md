@@ -85,7 +85,7 @@
  
 <!------------------- Languages used by me ----------------------->
 
-## <img src="https://c.tenor.com/Ry7RrgVhNHoAAAAi/improviz-blender.gif" width="30px">Programming Languages used in the Project:
+## <img src="https://c.tenor.com/Ry7RrgVhNHoAAAAi/improviz-blender.gif" width="30px">Programming Languages I know:
 <br>
 
 
