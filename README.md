@@ -59,8 +59,6 @@
 <a href="https://github.com/Crazimonk/nft-preview-card-component-main">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Crazimonk&repo=Profile-Card-Component&theme=dark" />
 </a>
-
- <br>
  
 <a href="https://github.com/Crazimonk/order-summary-component-main">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Crazimonk&repo=order-summary-component-main&theme=dark" />
