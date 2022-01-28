@@ -62,7 +62,7 @@
 </a>
  
 <a href="https://github.com/Crazimonk/Profile-Card-Component">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Crazimonk&repo= Profile-Card-Component&theme=dark" />
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Crazimonk&repo=Profile-Card-Component&theme=dark" />
 </a>
  
 <a href="https://github.com/Crazimonk/Order-Summary-Component">
