@@ -82,6 +82,14 @@
  <a href="https://github.com/Crazimonk/3-Column-Preview-Card-Component">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Crazimonk&repo=3-Column-Preview-Card-Component&theme=dark" />
 </a>
+ 
+  <a href="https://github.com/Crazimonk/Faq-Accordion-Card">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Crazimonk&repo=Faq-Accordion-Card&theme=dark" />
+</a>
+ 
+  <a href="https://github.com/Crazimonk/Qr-Code-Component">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Crazimonk&repo=Qr-Code-Component&theme=dark" />
+</a>
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
