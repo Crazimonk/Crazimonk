@@ -65,8 +65,8 @@
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Crazimonk&repo=Profile-Card-Component&theme=dark" />
 </a>
  
-<a href="https://github.com/Crazimonk/order-summary-component-main">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Crazimonk&repo=order-summary-component-main&theme=dark" />
+<a href="">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=Crazimonk&repo=&theme=dark" />
 </a>
  
  <a href="https://github.com/Crazimonk/Stats-Preview-Card-Component">
