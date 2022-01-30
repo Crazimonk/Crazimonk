@@ -23,11 +23,6 @@
 <a href="https://discord.gg/4tKWKCn">
 <img border="0" alt="𝐔𝐜𝐡𝐢𝐡𝐚𝐆𝐡𝐨𝐬𝐭#8121" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
 </a>
-
-<a href="crazimonk2.0@gmail.com">
-<img border="0" alt="crazimonk2.0@gmail.com" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
-</a>
-</p>
  
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
