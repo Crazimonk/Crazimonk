@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## <img src="https://c.tenor.com/daZ82E5sg8YAAAAi/crystal-de-meda-gem.gif" width="25px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is <strong>Naveen Gumaste</strong>  Aka <strong>CraziMonk</strong><img src="https://c.tenor.com/daZ82E5sg8YAAAAi/crystal-de-meda-gem.gif" width="25px">
+## <img src="https://c.tenor.com/daZ82E5sg8YAAAAi/crystal-de-meda-gem.gif" width="25px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is <strong>Naveen</strong><img src="https://c.tenor.com/daZ82E5sg8YAAAAi/crystal-de-meda-gem.gif" width="25px">
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
