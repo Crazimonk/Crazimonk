@@ -32,7 +32,10 @@
 
 ## <img src="https://c.tenor.com/9ER-sDwv7jIAAAAi/arrow-yellow-arrow.gif" width="30px">General Stats :
 <br>
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Crazimonk&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
+ <div align="left">
+  <a href="https://github.com/Crazimonk">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Crazimonk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
