@@ -10,21 +10,10 @@
 
 <!-----Social Accounts------>
 
-<a href="www.linkedin.com/in/naveenkumar-gumaste">
-<img border="0" alt="CraziMonk" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
-</a>
 
-<a href="https://twitter.com/crazi_monk">
-<img border="0" alt="CraziMonk" src="https://img.icons8.com/nolan/40/twitter.png"/>
-</a>
-
-<a href="https://www.instagram.com/silver__linin/">
-<img border="0" alt="CraziMonk" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
-</a>
-
-<a href="https://discord.gg/4tKWKCn">
-<img border="0" alt="𝐔𝐜𝐡𝐢𝐡𝐚𝐆𝐡𝐨𝐬𝐭#8121" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
-</a>
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor)](https://twitter.com/crazi_monk)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@Cynos)](https://medium.com/@Cynos)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/naveenkumar-gumaste/)](https://www.linkedin.com/in/naveenkumar-gumaste/)
  
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
@@ -143,3 +132,8 @@
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
+
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [HTML5 Semantic Elements Learn Now!](https://medium.com/@Cynos/html5-semantic-elements-learn-now-9a3547f1b779)
+- [Only Vs Code Extension You Need 2022](https://medium.com/@Cynos/only-vs-code-extension-you-need-2022-a8225d1e6354)
